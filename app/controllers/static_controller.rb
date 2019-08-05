@@ -1,3 +1,3 @@
 class StaticController < ApplicationController
-  "Hello World"
+  puts "Hello World"
 end
